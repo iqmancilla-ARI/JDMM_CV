@@ -73,7 +73,7 @@ I believe leadership is not only about directing operations, but about creating 
 
 This repository serves as a professional space where I share projects, ideas and frameworks related to engineering, operations, analytics and industrial transformation.
 
-More than a résumé, this is a representation of how I think, solve problems and approach operational systems.
+More than a resume, this is a representation of how I think, solve problems and approach operational systems.
 
 ---
 
